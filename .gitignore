@@ -1,0 +1,10 @@
+*~
+/llama.cpp*
+/text-generation-webui*
+/ggml*
+/models*
+.python-version
+*.log
+tmp/
+.env*
+.DS_Store
